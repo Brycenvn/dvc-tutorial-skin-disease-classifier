@@ -1,7 +1,7 @@
 train:
-  boost_rounds: 50
+  boost_rounds: 30
   learning_rate: 0.2
-  max_depth: 3
+  max_depth: 6
 
 test:
   threshold: 0.9
